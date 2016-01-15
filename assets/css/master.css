@@ -5,6 +5,11 @@ body{
 }
 a{
     transition: .5s;
+<<<<<<< HEAD
+=======
+    font-size: 1em;
+    font-family: Tahoma, Arial;
+>>>>>>> f564b7cf25df1206c7e458e238fc79b624337139
 }
 p{
     font-size: 1em;
