@@ -28,8 +28,9 @@ h1, h2, h3, h4, h5, h6{
 h2{
     font-size: 3em;    
     border-bottom: 2px #FF6600 solid;
-    display: inline-block;
+    display: inherit;
     padding-bottom: .2em;
+    margin: 0 auto .5em auto;
 }
 h3{
     font-size: 1.5em;

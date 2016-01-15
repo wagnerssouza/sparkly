@@ -379,12 +379,12 @@ a.btn-banner-home{
 .localizacao .conteudo{
 	background: rgba(53,59,73, .9);
     padding: 2em;
+    max-width: inherit;
     position: absolute;
     top: 0;
 }
 .localizacao .conteudo h2{
 	color: #fff;
-    margin: 0;
 }
 
 
