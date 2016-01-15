@@ -1,9 +1,6 @@
 .header{
 	background: #353b49;
-<<<<<<< HEAD
-=======
 	padding: 1em 0;
->>>>>>> f564b7cf25df1206c7e458e238fc79b624337139
 }
 .logo{
 	display: inline-block;		
@@ -368,19 +365,15 @@ a.btn-banner-home{
 .endereco{
 	background: #fff;
 }
-<<<<<<< HEAD
-=======
+
 
 /*localizacao*/
->>>>>>> f564b7cf25df1206c7e458e238fc79b624337139
+
 .localizacao{
 	padding: 10em 0;
 	background-image: url(../images/imagem-mapa.jpg);
 	background-position: center center;
 	background-size: cover;
-<<<<<<< HEAD
-}
-=======
 	position: relative;
 }
 .localizacao .conteudo{
@@ -394,5 +387,5 @@ a.btn-banner-home{
     margin: 0;
 }
 
->>>>>>> f564b7cf25df1206c7e458e238fc79b624337139
+
 .rodape{}
